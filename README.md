@@ -1,7 +1,9 @@
 ### Hi there, I'm Craig 👋
 
-- 🔭 I’m currently learning about how to create React apps.
-- 🌱 I’m on a journey to become a Full Stack Developer as a bootcamper with School of Code
+## Aspiring Junior Fullstack Developer
+
+- 🌱 I’m currently learning with School of Code
+- 🔭 I’m currently working on a skill sharing app as part of a team of 6 aspiring software engineers.
 - 📫 How to reach me: Twitter: <a href="https://twitter.com/cragglesummers">@cragglesummers</a> Linkedin: <a href = "https://www.linkedin.com/in/craig-summers-85231a34/">Craig Summers</a>
 - 😄 Pronouns: he/him
 
