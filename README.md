@@ -7,6 +7,10 @@
 - 📫 How to reach me: Twitter: <a href="https://twitter.com/cragglesummers">@cragglesummers</a> Linkedin: <a href = "https://www.linkedin.com/in/craig-summers-85231a34/">Craig Summers</a>
 - 😄 Pronouns: he/him
 
+### Repo's
+
+[School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
+
 <!--
 **AlphaPentagon/alphapentagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
