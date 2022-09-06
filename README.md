@@ -9,7 +9,11 @@
 
 ### Repo's
 
+[Team Projects](https://github.com/stars/AlphaPentagon/lists/team-projects)
+[Solo Projects](https://github.com/stars/AlphaPentagon/lists/solo-projects)
 [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
+[Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
+
 
 <!--
 **AlphaPentagon/alphapentagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
