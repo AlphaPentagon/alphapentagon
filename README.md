@@ -18,7 +18,7 @@
 
 ### Skills
 
-
+### Stats
 ![Craig's github stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
