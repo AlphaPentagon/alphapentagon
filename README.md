@@ -4,7 +4,7 @@
 
 - 🌱 I’ve recently graduated from the School of Code bootcamp
 - 🔭 I’m currently working on a simple CBT Thought Diary web app.
-- 📫 How to reach me: [Twitter](https://twitter.com/cragglesummers) | [Linkedin](https://www.linkedin.com/in/craig-summers-85231a34/) | Website(https://craig-summers-dev.netlify.app)
+- 📫 How to reach me: [Twitter](https://twitter.com/cragglesummers) | [Linkedin](https://www.linkedin.com/in/craig-summers-85231a34/) | [Website](https://craig-summers-dev.netlify.app)
 - 😄 Pronouns: he/him
 
 
