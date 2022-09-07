@@ -23,6 +23,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
+<br />
 ![Codewars](https://github.r2v.ch/codewars?user=AlphaPentagon&stroke=black)
 
 
