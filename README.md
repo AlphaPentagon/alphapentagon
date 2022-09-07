@@ -4,23 +4,23 @@
 
 - 🌱 I’ve recently graduated from the School of Code bootcamp
 - 🔭 I’m currently working on a simple CBT Thought Diary web app.
-- 📫 How to reach me: Twitter: <a href="https://twitter.com/cragglesummers">@cragglesummers</a> Linkedin: <a href = "https://www.linkedin.com/in/craig-summers-85231a34/">Craig Summers</a>
+- 📫 How to reach me: ![Twitter]("https://twitter.com/cragglesummers") ![Linkedin]("https://www.linkedin.com/in/craig-summers-85231a34/")
 - 😄 Pronouns: he/him
 
 
 
 ### Repo's
 
-- [Team Projects](https://github.com/stars/AlphaPentagon/lists/team-projects)
-- [Solo Projects](https://github.com/stars/AlphaPentagon/lists/solo-projects)
-- [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
-- [Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
+- ![Team Projects](https://github.com/stars/AlphaPentagon/lists/team-projects)
+- ![Solo Projects](https://github.com/stars/AlphaPentagon/lists/solo-projects)
+- ![School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
+- ![Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
 
 ### Currently Reading
 
-- [The Pragmattic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
-- [How to Think Like a Programmer](https://www.goodreads.com/book/show/13590009-think-like-a-programmer)
+- ![The Pragmattic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- ![You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- ![How to Think Like a Programmer](https://www.goodreads.com/book/show/13590009-think-like-a-programmer)
 
 ### Skills
 <div class="skills-container">
