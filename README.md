@@ -16,6 +16,12 @@
 - [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
 - [Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
 
+### Currently Reading
+
+- [The Pragmattic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [How to Think Like a Programmer](https://www.goodreads.com/book/show/13590009-think-like-a-programmer)
+
 ### Skills
 <div class="skills-container">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="HTML 5" height="80px"  />
