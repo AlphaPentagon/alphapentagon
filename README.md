@@ -14,6 +14,8 @@
 - [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
 - [Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
 
+![Codewars](https://github.r2v.ch/codewars?user=AlphaPentagon&stroke=black)
+
 
 <!--
 **AlphaPentagon/alphapentagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
