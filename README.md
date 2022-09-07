@@ -1,13 +1,10 @@
-### Hi there, I'm Craig 👋
-
-## I'm a software developer
+### Craig Summers
+## Junior Software Developer
 
 - 🌱 I’ve recently graduated from the School of Code bootcamp
 - 🔭 I’m currently working on a simple CBT Thought Diary web app.
 - 📫 How to reach me: [Twitter](https://twitter.com/cragglesummers) | [Linkedin](https://www.linkedin.com/in/craig-summers-85231a34/) | [Website](https://craig-summers-dev.netlify.app)
 - 😄 Pronouns: he/him
-
-
 
 ### Repo's
 
@@ -37,32 +34,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="80px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="Jest" height="80px" width="120px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress" height="80px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" height="80px"  />
-  
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" height="80px"  />  
 </div>
 
-
 ### Stats
-
 ![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon&count_private=true&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
 <br />
 ![Codewars](https://github.r2v.ch/codewars?user=AlphaPentagon&stroke=black)
-
-
-<!--
-**AlphaPentagon/alphapentagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on reviewing some basic Javascript.
-- 🌱 I’m currently learning with School of Code
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Twitter: @cragglesummers Linkedin: https://www.linkedin.com/in/craig-summers-85231a34/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
