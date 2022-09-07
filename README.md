@@ -2,6 +2,8 @@
 
 ## I'm a software developer
 
+![Craig's github stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon)
+
 - 🌱 I’ve recently graduated from the School of Code bootcamp
 - 🔭 I’m currently working on a simple CBT Thought Diary web app.
 - 📫 How to reach me: Twitter: <a href="https://twitter.com/cragglesummers">@cragglesummers</a> Linkedin: <a href = "https://www.linkedin.com/in/craig-summers-85231a34/">Craig Summers</a>
