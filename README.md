@@ -18,6 +18,8 @@
 
 ### Skills
 
+![HTML 5](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg)
+
 ### Stats
 
 ![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon&count_private=true&show_icons=true&theme=tokyonight)
