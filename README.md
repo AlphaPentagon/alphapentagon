@@ -18,7 +18,11 @@
 - [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
 - [Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
+### Skills
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=AlphaPentagon&stroke=black)
 
 
