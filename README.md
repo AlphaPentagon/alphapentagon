@@ -19,7 +19,9 @@
 ### Skills
 
 ### Stats
-![Craig's github stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon&count_private=true)
+![Craig's github stats](https://github-readme-stats.vercel.app/api?username=AlphaPentagon)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AlphaPentagon/github-readme-stats)
 <br />
