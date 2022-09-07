@@ -1,4 +1,4 @@
-### Craig Summers
+# Craig Summers
 ## Junior Software Developer
 
 - 🌱 I’ve recently graduated from the School of Code bootcamp
