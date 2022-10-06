@@ -11,6 +11,7 @@
 - [Team Projects](https://github.com/stars/AlphaPentagon/lists/team-projects)
 - [Solo Projects](https://github.com/stars/AlphaPentagon/lists/solo-projects)
 - [School of Code Hackathons](https://github.com/stars/AlphaPentagon/lists/soc-weekly-hackathons)
+- [Challenges] (https://github.com/stars/AlphaPentagon/lists/challenges)
 - [Tutorials](https://github.com/stars/AlphaPentagon/lists/tutorials)
 
 ### Currently Reading
